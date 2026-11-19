@@ -1,17 +1,9 @@
 # 💫 Hi 👋, Mahad Farman
 **I am an aspiring Data Analyst with an interest in programming and data analytics. I am learning programming languages such as Python and JavaScript, and working with tools and technologies including Excel, NumPy, Pandas, MySQL, Microsoft SQL Server, and PostgreSQL.**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mahadfarman86@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- # 💫 About Me:
+
 🔭 **I'm currently working on**  <br>Data Analytics with Python and SQL projects.<br><br>👯 **I'm looking to collaborate on**  <br>Python, SQL, and Data Analytics projects.<br><br>🤝 **I'm looking for help with**  <br>Advanced SQL, data analysis, and real-world projects.<br><br>🌱 **I'm currently learning**  <br>Microsoft Azure, JavaScript, and AI fundamentals.<br><br>💬 **Ask me about**  <br>Python, NumPy, Pandas, SQL, PostgreSQL, and Microsoft SQL Server.<br><br>⚡ **Fun fact**  <br>I enjoy turning data into meaningful insights and solving problems through code.
 
 
